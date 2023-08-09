@@ -42,8 +42,8 @@ I'm Sarah Ann Garcia. Full stack web developer that is proficient in React, Type
 
 ### ✍🏻 Blogs
 
-[Sarah Ann Garcia Thinkful Student](https://www.thinkful.com/blog/she-graduated-thinkful-now-her-job-is-the-best/)
-[Bootcamp Grad Advice](https://www.thinkful.com/blog/advice-from-a-thinkful-grad-to-help-you-persevere/)
+- [Sarah Ann Garcia Thinkful Student](https://www.thinkful.com/blog/she-graduated-thinkful-now-her-job-is-the-best/)
+- [Bootcamp Grad Advice](https://www.thinkful.com/blog/advice-from-a-thinkful-grad-to-help-you-persevere/)
 
 ---
 
