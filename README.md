@@ -24,8 +24,10 @@ I'm Sarah Ann Garcia. Full stack web developer that is proficient in React, Type
 
 <p float="left">
 <img style="padding:5px;" align="center" alt="NodeJS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
-<img style="padding:5px;" align="center" alt="ReactJs" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
+<img style="padding:5px;" align="center" alt="ReactJS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
+<img style="padding:5px;" align="center" alt="NextJS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/next/next.png"/>
 <img style="padding:5px;" align="center" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img style="padding:5px;" align="center" alt="TypeScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
 <img style="padding:5px;" align="center" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img style="padding:5px;" align="center" alt="HTML" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 <img style="padding:5px;" align="center" alt="CSS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
@@ -44,7 +46,3 @@ I'm Sarah Ann Garcia. Full stack web developer that is proficient in React, Type
 
 - [Sarah Ann Garcia Thinkful Student](https://www.thinkful.com/blog/she-graduated-thinkful-now-her-job-is-the-best/)
 - [Bootcamp Grad Advice](https://www.thinkful.com/blog/advice-from-a-thinkful-grad-to-help-you-persevere/)
-
----
-
-### 📈 GitHub Stats 
