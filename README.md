@@ -1,18 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+It's+been+a+while+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
-I'm Sarah Ann Garcia. I work as a software engineer during the day. At night, I switch into my creator mode - spreading knowledge about software development and engineering!
-
-<a href="https://www.buymeacoffee.com/absatyaprakash" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+I'm Sarah Ann Garcia. Full stack web developer that is proficient in React, Typescript, NodeJS, NextJS, HTML5, CSS3, Javascript, SQL Databases, and Domain Driven Design as well as experience in jQuery, MeteorJS, Python, Mongo Databases, and Aurelia.
 
 ---
 
 ### ⚡️ A quick introduction
 
-- 🔭 I’m currently working with at [Oracle](https://www.oracle.com) with their [AI Apps](https://www.oracle.com/in/artificial-intelligence/ai-apps/) team.
-- 🌱 I’m currently learning Spring Boot. 
+- 🔭 I’m currently looking for work.
+- 🌱 I’m currently learning AWS. 
 - 💼 I'm open to freelancing projects.
-- 🤟🏻 I'm an astrophysics geek, amatuer singer, and history lover. I also write pieces of poetry, blogs, and play badminton!
-- 😝 Fun-Fact: I suffer from [hylophobia](https://phobia.wikia.org/wiki/Hylophobia).
+- 🤟🏻 I'm a mathematics geek, avid hiker, and camping lover. I also study nutrition and holistic healing!
+- 😝 Fun-Fact: I was born with only 1 kidney.
 
 ---
 
@@ -51,6 +49,3 @@ I'm Sarah Ann Garcia. I work as a software engineer during the day. At night, I 
 ---
 
 ### 📈 GitHub Stats 
-
-[![AB's github stats](https://github-readme-stats.vercel.app/api?username=Imperial-lord&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imperial-lord&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
