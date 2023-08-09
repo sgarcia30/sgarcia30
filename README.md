@@ -40,11 +40,9 @@ I'm Sarah Ann Garcia. Full stack web developer that is proficient in React, Type
 
 ---
 
-### ✍🏻 Medium Blogs
+### ✍🏻 Blogs
 
-[![AB Satyaprakash Medium](https://github-readme-medium.vercel.app/?username=absatyaprakash&limit=3)](https://medium.com/@absatyaprakash)
-
-[➡️ more blogs...](https://absatyaprakash01.medium.com/)
+[![Sarah Ann Garcia Thinkful Student](https://www.thinkful.com/blog/she-graduated-thinkful-now-her-job-is-the-best/)]
 
 ---
 
