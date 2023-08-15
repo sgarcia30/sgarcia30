@@ -7,7 +7,7 @@ I'm Sarah Ann Garcia, a full stack web developer that is proficient in React, Ty
 ### ⚡️ A quick introduction
 
 - 🔭 I’m currently looking for work.
-- 🌱 I’m currently learning AWS. 
+- 🌱 I’m currently learning how to build a command line tool. 
 - 💼 I'm open to freelancing projects.
 - 🤟🏻 I'm a mathematics geek, avid hiker, and camping lover. I also study nutrition and holistic healing!
 - 😝 Fun-Fact: I was born with only 1 kidney.
@@ -42,6 +42,32 @@ I'm Sarah Ann Garcia, a full stack web developer that is proficient in React, Ty
 <img style="padding:5px;" align="center" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 <img style="padding:5px;" align="center" alt="VS Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 </p>
+
+---
+
+### 📚 Books for Growth (no affialiate links)
+
+Books I'm currently reading:
+- [Code by Charles Petzold](https://www.goodreads.com/book/show/44882.Code)
+- [Objective Secure by Nick Lavery](https://www.goodreads.com/book/show/60175582-objective-secure?ref=nav_sb_ss_1_16)
+
+Books I've read in 2023:
+- [Eat That Frog by Brian Tracy](https://www.goodreads.com/book/show/95887.Eat_That_Frog_?ref=nav_sb_ss_1_13)
+- [Do Over by Jon Acuff](https://www.goodreads.com/book/show/22571775-do-over?ref=nav_sb_ss_1_14)
+- [All It Takes Is a Goal by Jon Acuff](https://www.goodreads.com/book/show/122910345-all-it-takes-is-a-goal?ref=nav_sb_ss_1_22)
+- [Dream Big by Bob Goff](https://www.goodreads.com/book/show/48856840-dream-big?ref=nav_sb_ss_1_9)
+
+
+Books I want to read:
+- [Clean Code by Robert C. Martin](https://www.goodreads.com/book/show/3735293-clean-code?ref=nav_sb_ss_1_10)
+- [It Doesn't Have to be Crazy at Work by Jason Fried](https://www.goodreads.com/book/show/38900866-it-doesn-t-have-to-be-crazy-at-work?ref=nav_sb_ss_1_16)
+---
+
+### 🔍 📣 Podcasts for Growth
+
+- [Javascript Jabber](https://open.spotify.com/show/6xpiit8aJmwDHk1rKdxmri)
+- [Programming Throwdown](https://www.programmingthrowdown.com/)
+- [All It Takes Is a Goal](https://jonacuff.com/podcast/)
 
 ---
 
