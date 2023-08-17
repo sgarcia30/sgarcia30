@@ -45,6 +45,10 @@ I'm Sarah Ann Garcia, a full stack web developer that is proficient in React, Ty
 
 ---
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64de5e59ced78d2935219379?variant=dark)](https://roadmap.sh)
+
+---
+
 ### 📚 Books for Growth (no affialiate links)
 
 Books I'm currently reading:
